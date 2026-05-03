@@ -7,6 +7,8 @@ CS 411: https://github.com/cs411-alawini/fa24-cs411-team079-teamIcon
 
 CS 465: https://github.com/CS465UIDesign/AD5_2
 
+CS 415: https://github.com/abbyobrad/lostatsea
+
 CS 124 CA:
 https://github.com/cs124-illinois-students/MP-Fall2024-java-AyushiChak
 
