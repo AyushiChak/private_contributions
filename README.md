@@ -10,6 +10,6 @@ An interactive map of the Urbana-Champaign campus that displays accessible entra
 
 https://github.com/abbyobrad/lostatsea
 
-A first-person puzzle RPG video game, where you, the ship's captain, wake up stranded on your vessel abandoned by your mutinous crew and must figure out how to escape to land by solving a series of puzzles.
+A first-person puzzle-based and story-based game where you, the ship's captain, wake up stranded alone at sea. Abandoned by your mutinous crew on board a disintegrating ship, you must figure out how to escape to land by solving a series of puzzles.
 
 Note: The repositories linked above are kept private out of respect for team consent.
